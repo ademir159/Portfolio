@@ -23,10 +23,10 @@ I'm Ademir, freelance programmer.
 ## Flyff Online:
 
 
-[- C++ / PHP / MSSQL](https://realflyff.com/).
+[- C++ / PHP / MSSQL](https://realflyff.com/)
 
 
 ## Rapid Fire:
 
-[- Unity3D / C# / PHP / MySQL / Blender](https://www.youtube.com/watch?v=CoN4_WfAX2U).
+[- Unity3D / C# / PHP / MySQL / Blender](https://www.youtube.com/watch?v=CoN4_WfAX2U)
 
