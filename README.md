@@ -1,12 +1,12 @@
 # Portfolio
 
-Hello!!👋
+####Hello!!👋
 
 I'm Ademir, freelance programmer.
 
 Studying Technology in Information Technology Management. 🤝
 
-Developer in:
+##Developer in:
   C++;
   C#;
   Unity3D;
@@ -18,19 +18,17 @@ Developer in:
   MYSQL;
   .Net;
   
-  ![YOUR github stats]
-  
 ### Here are some of my works:
 
 -------------------------------------------------------
-Flyff Online:
+##Flyff Online:
 
 C++/PHP/MSSQL
 
 https://realflyff.com/
 
 ---------------------------------------------------------
-Rapid Fire:
+##Rapid Fire:
 
 Unity3D/C#/PHP/MySQL/Blender
 
