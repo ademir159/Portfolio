@@ -2,9 +2,9 @@
 
 #### Hello!!👋
 
-I'm Ademir, freelance programmer.
+I'm Ademir, freelance programmer. 🤝
 
-💻Studying Technology in Information Technology Management. 🤝
+💻Studying Technology in Information Technology Management. 
 
 ## 🦄 Developer in:
   - C++;
