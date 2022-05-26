@@ -28,5 +28,7 @@ I'm Ademir, freelance programmer.
 
 ## Rapid Fire:
 
-[- Unity3D / C# / PHP / MySQL / Blender](https://www.youtube.com/watch?v=CoN4_WfAX2U)
+  # Is a topdown shooter multiplayer game with unique mechanics, full authoritative server side, desenvolvido na Unity3D
+
+[- Unity3D / C# / PHP / MySQL / Blender](https://youtube.com/playlist?list=PL78bIUG0apNpS94t-QguSEdB6c4LuSE3b)
 
