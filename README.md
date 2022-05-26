@@ -1,10 +1,10 @@
 # Portfolio
 
-Hello.
+Hello!!👋
 
-I'm Freelance programmer.
+I'm Ademir, freelance programmer.
 
-Studying Technology in Information Technology Management;
+Studying Technology in Information Technology Management. 🤝
 
 Developer in:
   C++;
@@ -20,7 +20,7 @@ Developer in:
   
   ![YOUR github stats]
   
- ![Here are some of my works:](https://github-readme-stats.vercel.app/api?username=USERNAME)
+### Here are some of my works:
 
 -------------------------------------------------------
 Flyff Online:
