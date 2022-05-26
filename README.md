@@ -18,6 +18,8 @@ Developer in:
   MYSQL;
   .Net;
   
+  ![YOUR github stats]
+  
  ![Here are some of my works:](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
 -------------------------------------------------------
